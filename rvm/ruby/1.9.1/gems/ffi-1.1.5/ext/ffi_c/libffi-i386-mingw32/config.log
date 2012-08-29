@@ -659,7 +659,7 @@ configure:12864: checking for sys/mman.h
 configure:12864: result: no
 configure:12876: checking for mmap
 configure:12876: gcc -o conftest.exe  -Wall -fexceptions   conftest.c  >&5
-C:\Users\Simon\AppData\Local\Temp\ccMFz8B7.o:conftest.c:(.text+0xc): undefined reference to `mmap'
+C:\Users\Simon\AppData\Local\Temp\ccwYE4xE.o:conftest.c:(.text+0xc): undefined reference to `mmap'
 collect2: ld returned 1 exit status
 configure:12876: $? = 1
 configure: failed program was:
